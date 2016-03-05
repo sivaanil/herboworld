@@ -812,16 +812,18 @@ background: url("../images/top-cart.png") no-repeat right center transparent;pad
 .nav-container { background: url(../images/boder-menu.png) right top no-repeat transparent;padding-top:3px;border-left: 1px solid #dfdfdf;
  border-right: 1px solid #dfdfdf; border-bottom: 1px solid #bcbcbc; }
 #nav { margin:0 auto; padding:0;
-background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1a82f7), to(#2F2727));
+//background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1a82f7), to(#2F2727));
   /* Safari 5.1, Chrome 10+ */
-  background: -webkit-linear-gradient(bottom, #f0f0f0 0%, #ffffff 20%); 
+ // background: -webkit-linear-gradient(bottom, #f0f0f0 0%, #ffffff 20%); 
   /* Firefox 3.6+ */
-  background: -moz-linear-gradient(bottom, #f0f0f0 0%, #ffffff 20%);
+ // background: -moz-linear-gradient(bottom, #f0f0f0 0%, #ffffff 20%);
   /* IE 10 */
-  background: -ms-linear-gradient(bottom, #f0f0f0 0%, #ffffff 20%);
+ // background: -ms-linear-gradient(bottom, #f0f0f0 0%, #ffffff 20%);
   /* Opera 11.10+ */
-  background: -o-linear-gradient(bottom, #f0f0f0 0%, #ffffff 20%);}
-
+ // background: -o-linear-gradient(bottom, #f0f0f0 0%, #ffffff 20%);
+ backgorund-color : 'blue'
+ }
+ 
 /* All Levels */ /* Style consistent throughout all nav levels */
 #nav li { position:relative; text-align:left; }
 #nav li.over { z-index:998; }

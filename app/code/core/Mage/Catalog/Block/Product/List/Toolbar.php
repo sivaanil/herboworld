@@ -20,7 +20,7 @@
  *
  * @category    Mage
  * @package     Mage_Catalog
- * @copyright   Copyright (c) 2014 Magento Inc. (http://www.magentocommerce.com)
+ * @copyright   Copyright (c) 2012 Magento Inc. (http://www.magentocommerce.com)
  * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
  */
 
@@ -482,6 +482,17 @@ class Mage_Catalog_Block_Product_List_Toolbar extends Mage_Core_Block_Template
             $this->getPageVarName() => null
         ));
     }
+	    public function getOrder2Url($order, $direction)
+    {
+        if (is_null($order)) {
+            $order = $this->getCurrentOrder() ? $this->getCurrentOrder() : $this->_availableOrder[0];
+        }
+        return $this->getPagerUrl(array(
+            $this->getOrderVarName()=>$order,
+            $this->getDirectionVarName()=>$direction,
+            $this->getPageVarName() => null
+        ));
+    }
 
     /**
      * Return current URL with rewrites and additional parameters
@@ -572,6 +583,11 @@ class Mage_Catalog_Block_Product_List_Toolbar extends Mage_Core_Block_Template
      * @return string
      */
     public function getModeUrl($mode)
+    {
+        return $this->getPagerUrl( array($this->getModeVarName()=>$mode, $this->getPageVarName() => null) );
+    }
+
+    public function getMode2Url($mode)
     {
         return $this->getPagerUrl( array($this->getModeVarName()=>$mode, $this->getPageVarName() => null) );
     }
@@ -759,6 +775,13 @@ class Mage_Catalog_Block_Product_List_Toolbar extends Mage_Core_Block_Template
      * @return string
      */
     public function getLimitUrl($limit)
+    {
+        return $this->getPagerUrl(array(
+            $this->getLimitVarName() => $limit,
+            $this->getPageVarName() => null
+        ));
+    }
+	    public function getLimit2Url($limit)
     {
         return $this->getPagerUrl(array(
             $this->getLimitVarName() => $limit,
