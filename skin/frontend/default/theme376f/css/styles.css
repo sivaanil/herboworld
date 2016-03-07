@@ -31,7 +31,7 @@ html {
 }
 .catalog-product-compare-index > div { min-width:600px;}
 
-body          { background:url(../images/body-bg.gif) repeat center top; 
+body          { background:url(../images/body-bg.gif) repeat; 
 				font-family:Arial; font-size:0.75em; line-height:1.5em; color:#725031; text-align:center; min-width:1205px; position:relative;}
 body > .wrapper { position:relative;}
 .wrapper-tail{}
