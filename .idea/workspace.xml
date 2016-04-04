@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98b69754-56f6-4ef8-8962-eb7934133ecb" name="Default" comment="Removed unnecessary files">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--0/mage---1ce_Zend_LocaleC_en_US_month_gregorian_format_wide_3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---1ce_CORE_CACHE_OPTIONS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--4/mage---1ce_FOOTER_LOCALEEN_US" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--7/mage---1ce_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--9/mage---1ce_Zend_LocaleL_en_US_days_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--a/mage---1ce_Zend_LocaleL_en_US_months_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_af_ZA_country_ZA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_ar_DZ_country_DZ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_ar_EG_country_EG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_ar_MA_country_MA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_ar_SA_country_SA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_be_BY_country_BY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_bg_BG_country_BG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_bn_BD_country_BD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_bs_BA_country_BA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_ca_ES_country_ES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_cy_GB_country_GB" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_da_DK_country_DK" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_de_AT_country_AT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_de_CH_country_CH" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_de_DE_country_DE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_el_GR_country_GR" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_en_AU_country_AU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_en_CA_country_CA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_en_GB_country_GB" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_en_IE_country_IE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_en_US_date_full" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_en_US_date_long" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_es_AR_country_AR" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_es_CL_country_CL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_es_CO_country_CO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_es_CR_country_CR" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_es_ES_country_ES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_es_PA_country_PA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_es_PE_country_PE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_et_EE_country_EE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_fa_IR_country_IR" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_fi_FI_country_FI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_fr_CA_country_CA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_fr_FR_country_FR" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_gl_ES_country_ES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_he_IL_country_IL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_hi_IN_country_IN" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_id_ID_country_ID" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_it_CH_country_CH" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_ja_JP_country_JP" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_ka_GE_country_GE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_km_KH_country_KH" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_lo_LA_country_LA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleC_nb_NO_country_NO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--c/mage---1ce_Zend_LocaleL_en_US_language_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_af_ZA_language_af" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ar_DZ_language_ar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ar_EG_language_ar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ar_KW_country_KW" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ar_KW_language_ar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ar_MA_language_ar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ar_SA_language_ar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_az_AZ_country_AZ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_az_AZ_language_az" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_be_BY_language_be" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_bg_BG_language_bg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_bn_BD_language_bn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_bs_BA_language_bs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ca_ES_language_ca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_cs_CZ_country_CZ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_cs_CZ_language_cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_cy_GB_language_cy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_da_DK_language_da" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_de_AT_language_de" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_de_CH_language_de" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_de_DE_language_de" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_el_GR_language_el" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_en_AU_language_en" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_en_CA_language_en" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_en_GB_language_en" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_en_IE_language_en" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_en_NZ_country_NZ" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_en_NZ_language_en" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_en_US_country_US" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_en_US_date_medium" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_en_US_language_en" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_es_AR_language_es" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_es_CL_language_es" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_es_CO_language_es" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_es_CR_language_es" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_es_ES_language_es" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_es_MX_country_MX" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_es_MX_language_es" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_es_PA_language_es" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_es_PE_language_es" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_es_VE_country_VE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_es_VE_language_es" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_et_EE_language_et" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_fa_IR_language_fa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_fi_FI_language_fi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_fil_PH_country_PH" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_fr_CA_language_fr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_fr_FR_language_fr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_gl_ES_language_gl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_gu_IN_country_IN" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_gu_IN_language_gu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_he_IL_language_he" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_hi_IN_language_hi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_hr_HR_country_HR" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_hr_HR_language_hr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_hu_HU_country_HU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_hu_HU_language_hu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_id_ID_language_id" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_is_IS_country_IS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_is_IS_language_is" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_it_CH_language_it" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_it_IT_country_IT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_it_IT_language_it" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ja_JP_language_ja" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ka_GE_language_ka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_km_KH_language_km" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ko_KR_country_KR" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ko_KR_language_ko" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_lo_LA_language_lo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_lt_LT_country_LT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_lt_LT_language_lt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_lv_LV_country_LV" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_lv_LV_language_lv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_mk_MK_country_MK" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_mk_MK_language_mk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_mn_MN_country_MN" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_mn_MN_language_mn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ms_MY_country_MY" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ms_MY_language_ms" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_nb_NO_language_nb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_nl_NL_country_NL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_nl_NL_language_nl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_nn_NO_country_NO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_nn_NO_language_nn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_pl_PL_country_PL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_pl_PL_language_pl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_pt_BR_country_BR" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_pt_BR_language_pt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_pt_PT_country_PT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_pt_PT_language_pt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ro_RO_country_RO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ro_RO_language_ro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ru_RU_country_RU" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_ru_RU_language_ru" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_sk_SK_country_SK" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_sk_SK_language_sk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_sl_SI_country_SI" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_sl_SI_language_sl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_sq_AL_country_AL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_sq_AL_language_sq" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_sr_RS_country_RS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_sr_RS_language_sr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_sv_SE_country_SE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_sv_SE_language_sv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_sw_KE_country_KE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_sw_KE_language_sw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_th_TH_country_TH" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_th_TH_language_th" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_tr_TR_country_TR" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_tr_TR_language_tr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_uk_UA_country_UA" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_uk_UA_language_uk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_vi_VN_country_VN" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_vi_VN_language_vi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_zh_CN_country_CN" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_zh_CN_language_zh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_zh_HK_country_HK" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_zh_HK_language_zh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_zh_TW_country_TW" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleC_zh_TW_language_zh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--d/mage---1ce_Zend_LocaleL_en_US_territory_2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/mage--f/mage---1ce_Zend_LocaleC_fil_PH_language_fil" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_077heu22imfhbbqvqldnmk4t85" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_18llc0lk9eluqel0gt17cgk693" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_4amtdl6jf3or7h0cigrlavirv1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_4n6um9rbduri9huhav9gn44ii2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_5mvb7pblboqcpbngjcb96jv362" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_7oeu9elvhlvsg2if74eokddvk6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_7t3n4tq1sllsr4ffch6uskehi3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_8vf93h02g06n1kem0f7c0ct8e0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_8vvblej414ubujbis1alm2r6a4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_9l104iv1t6r7hm2afp5t5464d7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_a0i6j95l94gsjsqoef2msnpln2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_a231r77j5ovng56262vbkts6q0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_apb5ncg00bbh577ikbnhdlel54" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_co42hqjf1img4fb5m4vqiv3800" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_codbjf8fu4v1aka1uk1htdoj34" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_ehn2pg92fu0e0715uesq4lu0q3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_evnkljeadep5n7ha9cc73tbd86" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_fam1gb0a3tbsl76uosf85gefk6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_ftlsccd04ku5in3basmd2oea50" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_g0b23qk6e1275gvfjt56913an0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_i257m4nhokrf1l012i8fdkovt2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_ir5ssu7u4asr96ndkntq3nl1v6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_otjh5v65o13k0i76ocu5vkva10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_p52prafajfig737ju95soscah0" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_q1ak0nfu82ko4n1co4vjdvk764" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_raqu2lrdcmkdf278omnuqkqtg5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_tlpm51seuvrkagvqhvl2kh49g5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_trvdorepv7mtgmjvlcbp0ftsn3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_u6qbmp6t4l1oaff2kdsud3uhj2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_u8bedoki0d590et5qas465al51" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_uerqgk5ur2bs7cv6oakm3mel43" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_ug3q9bri4onae9vc657ogkcbl5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_ukfobq65hi0ie1kn7hb2e9h266" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_v1spn5dcnbnvmsfmsfi0l718g2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_v3pdvil6ci1crmkmr0mvtu9084" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_vdl6am6al6pqn0th862g6dicj3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/session/sess_vnq7nrl1hdundoagaq4sna9e55" afterPath="" />
+    </list>
+    <ignored path="herboworld.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="herboworld" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="install-ebajes.phps" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/install-ebajes.phps">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="244" column="57" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.phtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/html/footer.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7403035">
+              <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cms.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/cms.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="42" column="73" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/html/footer.phtml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="47" />
+    <option name="y" value="24" />
+    <option name="width" value="1319" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="herboworld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="herboworld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="herboworld" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../drupal" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.gitignore</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Block/Form.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Block/Info.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Block/Jsinit.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Block/Payment.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Block/Placeform.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Block/Redirect.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Helper/Data.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Abstract.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Acc.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Csi.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Did.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Dnk.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Ebt.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Ent.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Event.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Gcb.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Gir.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Idl.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Lsr.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Mae.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Npy.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Obt.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Pli.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Psp.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Pwy.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Sft.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/So2.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/Model/Wlt.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/controllers/MoneybookersController.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/controllers/ProcessingController.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/etc/config.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/etc/system.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/sql/moneybookers_setup/install-1.6.0.0.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Phoenix/Moneybookers/sql/moneybookers_setup/mysql4-upgrade-1.2-1.2.0.1.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/Abstract.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/core/Mage/Catalog/Block/Product/List/Toolbar.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/core/Mage/Page/Block/Html/Pager.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_AdminNotification.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Adminhtml.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Api.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Api2.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Authorizenet.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Backup.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Bundle.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Captcha.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Catalog.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_CatalogInventory.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_CatalogRule.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_CatalogSearch.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Centinel.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Checkout.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Cms.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Compiler.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Connect.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Contacts.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Core.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Cron.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_CurrencySymbol.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Customer.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Dataflow.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Directory.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Downloadable.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Eav.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_GiftMessage.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_GoogleAnalytics.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_GoogleBase.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_GoogleCheckout.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_ImportExport.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Index.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Install.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Log.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Media.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Newsletter.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Page.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_PageCache.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Paygate.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Payment.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Paypal.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_PaypalUk.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Persistent.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Poll.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_ProductAlert.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Rating.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Reports.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Review.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Rss.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Rule.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Sales.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_SalesRule.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Sendfriend.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Shipping.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Sitemap.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Tag.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Tax.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Usa.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Weee.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Widget.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_Wishlist.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_XmlConnect.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Phoenix_Moneybookers.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/account_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/account_new_confirmation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/account_new_confirmed.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/account_password_reset_confirmation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/admin_password_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/admin_password_reset_confirmation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/contact_form.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/currency_update_warning.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/log_clean_warning.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/moneybookers_activateemail.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/newsletter_subscr_confirm.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/newsletter_subscr_success.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/newsletter_unsub_success.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/password_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/payment_failed.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/product_alert_cron_error.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/product_price_alert.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/product_share.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/product_stock_alert.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/creditmemo_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/creditmemo_new_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/creditmemo_update.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/creditmemo_update_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/invoice_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/invoice_new_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/invoice_update.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/invoice_update_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/order_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/order_new_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/order_update.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/order_update_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/shipment_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/shipment_new_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/shipment_update.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sales/shipment_update_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/sitemap_generate_warning.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/token.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/template/email/wishlist_share.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Adminhtml.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Api2.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Authorizenet.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Backup.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Bundle.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Catalog.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_CatalogInventory.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_CatalogRule.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Checkout.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Core.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Cron.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_CurrencySymbol.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Customer.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Directory.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Eav.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_GoogleAnalytics.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_GoogleCheckout.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_ImportExport.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Page.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_PageCache.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Paygate.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Payment.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Paypal.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Review.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Rule.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Sales.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Shipping.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Tax.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Usa.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Weee.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Widget.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_Wishlist.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/Mage_XmlConnect.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/template/email/moneybookers_activateemail.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/template/email/payment_failed.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/template/email/product_share.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/template/email/token.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_AdminNotification.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Adminhtml.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Api.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Backup.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Bundle.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Catalog.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_CatalogInventory.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_CatalogRule.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_CatalogSearch.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Checkout.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Cms.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Contacts.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Core.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Cron.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Customer.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Dataflow.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Directory.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Downloadable.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Eav.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_GiftMessage.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_GoogleAnalytics.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_GoogleBase.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_GoogleCheckout.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Install.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Media.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Newsletter.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Page.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Paygate.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Payment.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Paypal.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_PaypalUk.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Poll.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_ProductAlert.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Rating.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Reports.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Review.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Rss.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Rule.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Sales.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_SalesRule.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Sendfriend.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Shipping.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Sitemap.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Tag.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Tax.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Usa.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Weee.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Wishlist.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/db_latest_dump_this.sql</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/ebajes/default/css/styles.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--0/mage---internal-metadatas---1ce_Zend_LocaleC_en_US_month_gregorian_format_wide_3</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---1ce_CORE_CACHE_OPTIONS</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--4/mage---internal-metadatas---1ce_FOOTER_LOCALEEN_US</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--7/mage---internal-metadatas---1ce_CONFIGURATION_FILES_ACCESS_LEVEL_VERIFICATION</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--9/mage---internal-metadatas---1ce_Zend_LocaleL_en_US_days_</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--a/mage---1ce_ADMIN_NOTIFICATIONS_LASTCHECK</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---1ce_ADMIN_NOTIFICATIONS_LASTCHECK</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--a/mage---internal-metadatas---1ce_Zend_LocaleL_en_US_months_</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_af_ZA_country_ZA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_ar_DZ_country_DZ</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_ar_EG_country_EG</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_ar_MA_country_MA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_ar_SA_country_SA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_be_BY_country_BY</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_bg_BG_country_BG</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_bn_BD_country_BD</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_bs_BA_country_BA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_ca_ES_country_ES</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_cy_GB_country_GB</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_da_DK_country_DK</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_de_AT_country_AT</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_de_CH_country_CH</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_de_DE_country_DE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_el_GR_country_GR</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_en_AU_country_AU</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_en_CA_country_CA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_en_GB_country_GB</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_en_IE_country_IE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_en_US_date_full</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_en_US_date_long</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_es_AR_country_AR</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_es_CL_country_CL</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_es_CO_country_CO</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_es_CR_country_CR</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_es_ES_country_ES</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_es_PA_country_PA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_es_PE_country_PE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_et_EE_country_EE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_fa_IR_country_IR</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_fi_FI_country_FI</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_fr_CA_country_CA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_fr_FR_country_FR</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_gl_ES_country_ES</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_he_IL_country_IL</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_hi_IN_country_IN</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_id_ID_country_ID</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_it_CH_country_CH</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_ja_JP_country_JP</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_ka_GE_country_GE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_km_KH_country_KH</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_lo_LA_country_LA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleC_nb_NO_country_NO</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--c/mage---internal-metadatas---1ce_Zend_LocaleL_en_US_language_</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_af_ZA_language_af</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ar_DZ_language_ar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ar_EG_language_ar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ar_KW_country_KW</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ar_KW_language_ar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ar_MA_language_ar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ar_SA_language_ar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_az_AZ_country_AZ</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_az_AZ_language_az</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_be_BY_language_be</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_bg_BG_language_bg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_bn_BD_language_bn</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_bs_BA_language_bs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ca_ES_language_ca</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_cs_CZ_country_CZ</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_cs_CZ_language_cs</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_cy_GB_language_cy</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_da_DK_language_da</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_de_AT_language_de</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_de_CH_language_de</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_de_DE_language_de</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_el_GR_language_el</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_en_AU_language_en</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_en_CA_language_en</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_en_GB_language_en</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_en_IE_language_en</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_en_NZ_country_NZ</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_en_NZ_language_en</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_en_US_country_US</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_en_US_date_medium</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_en_US_language_en</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_es_AR_language_es</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_es_CL_language_es</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_es_CO_language_es</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_es_CR_language_es</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_es_ES_language_es</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_es_MX_country_MX</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_es_MX_language_es</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_es_PA_language_es</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_es_PE_language_es</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_es_VE_country_VE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_es_VE_language_es</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_et_EE_language_et</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_fa_IR_language_fa</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_fi_FI_language_fi</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_fil_PH_country_PH</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_fr_CA_language_fr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_fr_FR_language_fr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_gl_ES_language_gl</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_gu_IN_country_IN</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_gu_IN_language_gu</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_he_IL_language_he</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_hi_IN_language_hi</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_hr_HR_country_HR</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_hr_HR_language_hr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_hu_HU_country_HU</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_hu_HU_language_hu</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_id_ID_language_id</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_is_IS_country_IS</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_is_IS_language_is</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_it_CH_language_it</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_it_IT_country_IT</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_it_IT_language_it</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ja_JP_language_ja</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ka_GE_language_ka</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_km_KH_language_km</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ko_KR_country_KR</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ko_KR_language_ko</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_lo_LA_language_lo</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_lt_LT_country_LT</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_lt_LT_language_lt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_lv_LV_country_LV</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_lv_LV_language_lv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_mk_MK_country_MK</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_mk_MK_language_mk</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_mn_MN_country_MN</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_mn_MN_language_mn</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ms_MY_country_MY</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ms_MY_language_ms</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_nb_NO_language_nb</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_nl_NL_country_NL</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_nl_NL_language_nl</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_nn_NO_country_NO</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_nn_NO_language_nn</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_pl_PL_country_PL</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_pl_PL_language_pl</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_pt_BR_country_BR</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_pt_BR_language_pt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_pt_PT_country_PT</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_pt_PT_language_pt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ro_RO_country_RO</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ro_RO_language_ro</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ru_RU_country_RU</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_ru_RU_language_ru</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_sk_SK_country_SK</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_sk_SK_language_sk</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_sl_SI_country_SI</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_sl_SI_language_sl</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_sq_AL_country_AL</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_sq_AL_language_sq</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_sr_RS_country_RS</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_sr_RS_language_sr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_sv_SE_country_SE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_sv_SE_language_sv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_sw_KE_country_KE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_sw_KE_language_sw</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_th_TH_country_TH</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_th_TH_language_th</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_tr_TR_country_TR</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_tr_TR_language_tr</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_uk_UA_country_UA</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_uk_UA_language_uk</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_vi_VN_country_VN</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_vi_VN_language_vi</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_zh_CN_country_CN</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_zh_CN_language_zh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_zh_HK_country_HK</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_zh_HK_language_zh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_zh_TW_country_TW</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleC_zh_TW_language_zh</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--d/mage---internal-metadatas---1ce_Zend_LocaleL_en_US_territory_2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/cache/mage--f/mage---internal-metadatas---1ce_Zend_LocaleC_fil_PH_language_fil</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_077heu22imfhbbqvqldnmk4t85</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_18llc0lk9eluqel0gt17cgk693</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_23i1jp8e0o187p26f3rjpt15e7</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_4amtdl6jf3or7h0cigrlavirv1</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_4n6um9rbduri9huhav9gn44ii2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_5mvb7pblboqcpbngjcb96jv362</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_7oeu9elvhlvsg2if74eokddvk6</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_7t3n4tq1sllsr4ffch6uskehi3</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_8vf93h02g06n1kem0f7c0ct8e0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_8vvblej414ubujbis1alm2r6a4</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_9l104iv1t6r7hm2afp5t5464d7</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_a0i6j95l94gsjsqoef2msnpln2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_a231r77j5ovng56262vbkts6q0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_apb5ncg00bbh577ikbnhdlel54</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_co42hqjf1img4fb5m4vqiv3800</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_codbjf8fu4v1aka1uk1htdoj34</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_cprm2fhf1safkn8p603968d4u6</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_evnkljeadep5n7ha9cc73tbd86</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_fam1gb0a3tbsl76uosf85gefk6</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_ftlsccd04ku5in3basmd2oea50</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_g0b23qk6e1275gvfjt56913an0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_i257m4nhokrf1l012i8fdkovt2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_ir5ssu7u4asr96ndkntq3nl1v6</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_otjh5v65o13k0i76ocu5vkva10</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_p52prafajfig737ju95soscah0</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_raqu2lrdcmkdf278omnuqkqtg5</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_tlpm51seuvrkagvqhvl2kh49g5</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_trvdorepv7mtgmjvlcbp0ftsn3</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_u6qbmp6t4l1oaff2kdsud3uhj2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_u8bedoki0d590et5qas465al51</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_uerqgk5ur2bs7cv6oakm3mel43</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_ukfobq65hi0ie1kn7hb2e9h266</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_v3pdvil6ci1crmkmr0mvtu9084</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_vdl6am6al6pqn0th862g6dicj3</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/session/sess_vnq7nrl1hdundoagaq4sna9e55</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/EcommerceTeam/CloudZoom/Block/Product/View/Media.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/EcommerceTeam/CloudZoom/Helper/Data.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/EcommerceTeam/CloudZoom/Model/System/Config/Source/Position.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/EcommerceTeam/CloudZoom/etc/config.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/EcommerceTeam/CloudZoom/etc/system.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/TM/Core/Block/Adminhtml/System/Config/Form/Field/Notification.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/TM/Core/Block/Adminhtml/System/Config/Form/Fieldset/Modules/List.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/TM/Core/Helper/Data.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/TM/Core/Model/Notification/Feed.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/TM/Core/Model/Observer.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/TM/Core/etc/adminhtml.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/TM/Core/etc/config.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/TM/Core/etc/system.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/TM/EasyTabs/Helper/Data.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/TM/EasyTabs/etc/adminhtml.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/TM/EasyTabs/etc/config.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/TM/EasyTabs/etc/system.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Thirty4/CatalogSale/Block/Carousel.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Thirty4/CatalogSale/Block/Layer.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Thirty4/CatalogSale/Block/List.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Thirty4/CatalogSale/Block/View.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Thirty4/CatalogSale/Block/Widget/Carousel.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Thirty4/CatalogSale/Block/Widget/List.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Thirty4/CatalogSale/Helper/Data.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Thirty4/CatalogSale/Model/Layer.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Thirty4/CatalogSale/controllers/IndexController.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Thirty4/CatalogSale/etc/config.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/community/Thirty4/CatalogSale/etc/widget.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/Ajax/Block/Ajax.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/Ajax/Block/Cart/Sidebar.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/Ajax/Helper/Data.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/Ajax/Model/Ajax.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/Ajax/Model/Mysql4/Ajax.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/Ajax/Model/Mysql4/Ajax/Collection.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/Ajax/Model/Status.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/Ajax/controllers/IndexController.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/Ajax/etc/config.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/AjaxWishlist/Block/AjaxWishlist.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/AjaxWishlist/Helper/Data.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/AjaxWishlist/controllers/IndexController.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Excellence/AjaxWishlist/etc/config.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Kanavan/Searchautocomplete/Block/Ajaxsearch.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Kanavan/Searchautocomplete/Block/Suggest.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Kanavan/Searchautocomplete/Helper/Data.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Kanavan/Searchautocomplete/Model/Ajaxsearch.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Kanavan/Searchautocomplete/Model/Mysql4/Ajaxsearch.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Kanavan/Searchautocomplete/Model/Mysql4/Ajaxsearch/Collection.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Kanavan/Searchautocomplete/Model/Source/Effect.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Kanavan/Searchautocomplete/Model/Status.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Kanavan/Searchautocomplete/controllers/SuggestController.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Kanavan/Searchautocomplete/etc/config.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Kanavan/Searchautocomplete/etc/system.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Vinagento/Vpager/Block/Catalog/Layer/State.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Vinagento/Vpager/Block/Catalog/Product/List.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Vinagento/Vpager/Block/Catalog/Product/List/Toolbar.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Vinagento/Vpager/Block/Page/Html/Pager.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Vinagento/Vpager/Helper/Data.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Vinagento/Vpager/Model/Layer/Filter/Item.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Vinagento/Vpager/controllers/CategoryController.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/Vinagento/Vpager/etc/config.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/WP/CustomMenu/Block/About.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/WP/CustomMenu/Block/Navigation.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/WP/CustomMenu/Block/Toggle.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/WP/CustomMenu/Block/Topmenu.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/WP/CustomMenu/Helper/Data.php</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/WP/CustomMenu/etc/config.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/code/local/WP/CustomMenu/etc/system.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/etc/widget.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/ajax.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/ajaxwishlist.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/catalog.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/catalogsale.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/catalogsearch.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/checkout.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/contacts.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/directory.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/easytabs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/ecommerceteam-cloudzoom.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/local.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/newsletter.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/page.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/poll.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/reports.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/sales.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/searchautocomplete.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/tag.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/vpager.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/webandpeople/custommenu.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/layout/wishlist.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/ajax/catalog/product/options.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/ajax/catalog/product/view.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/ajax/catalog/product/view/addtocart.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar/default1.5.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/ajax/checkout/cart/sidebar_header.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/ajaxwishlist/catalog/product/compare/sidebar.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/ajaxwishlist/catalog/product/list.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/ajaxwishlist/catalog/product/view/addto.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/category/view.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/layer/view.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/msrp/popup.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/compare/list.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/compare/slider_1.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/list.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/list/related.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/list/toolbar.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/list/toolbar/toolbar.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/list/upsell.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/new.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/sale.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/view.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/view/media.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/view/price_clone.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/view/type/default.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/widget/link/link_block.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/widget/link/link_inline.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/widget/new/column/new_default_list.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/widget/new/column/new_images_list.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/widget/new/column/new_names_list.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/widget/new/content/new_grid.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/widget/new/content/new_list.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/widget/sale/sale_carousel_list.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/product/widget/sale/sale_default_list.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalog/seo/tree.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalogsearch/advanced/form.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalogsearch/advanced/result.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/catalogsearch/form.mini.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/checkout/cart.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/checkout/cart/crosssell.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/checkout/cart/item/default.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/checkout/cart/sidebar.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/checkout/cart/sidebar_header.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/checkout/multishipping/addresses.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/checkout/multishipping/state.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/checkout/onepage/shipping.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/contacts/form.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/customer/form/login.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/customer/form/logintm.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/customer/form/register.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/customer/form/registertm.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/directory/currency.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/additional.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/attributes.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductcms.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductcms1.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductcms2.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductcms3.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductcms4.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductcustom.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductcustom1.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductcustom2.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductcustom3.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductcustom4.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductcustomcms.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductrelated.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductreview.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproducttags.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/catalogproductview.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/description.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/easytabs/tabs.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/ecommerceteam/cloud-zoom/catalog/product/view/media.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/page/1column.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/page/2columns-left.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/page/2columns-right.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/page/3columns.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/page/html/footer.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/page/html/head.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/page/html/header.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/page/html/pager.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/page/html/pager/pager.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/page/html/top.links.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/page/template/links.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/page/template/linkscontact.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/paypal/partner/logo.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/persistent/checkout/onepage/billing.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/persistent/checkout/onepage/login.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/persistent/customer/form/login.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/poll/result.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/reports/home_product_compared.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/reports/home_product_viewed.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/sales/guest/form.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/searchautocomplete/blank.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/searchautocomplete/suggest.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/searchautocomplete/topsearch.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/tag/popular.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/webandpeople/custommenu/top.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/wishlist/item/column/info.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/default/theme376f/template/wishlist/sidebar.phtml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/local.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/etc/modules/EcommerceTeam_CloudZoom.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/etc/modules/Excellence_Ajax.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/etc/modules/Excellence_AjaxWishlist.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/etc/modules/Kanavan_Searchautocomplete.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/etc/modules/NetAmbition_DirectResize.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/etc/modules/TM_Core.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/etc/modules/TM_EasyTabs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/etc/modules/Thirty4_CatalogSale.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/etc/modules/Vinagento_Vpager.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/etc/modules/WP_CustomMenu.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/Mage_OAuth.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/sql_translation/attributes.sql</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/de_DE/sql_translation/attributes_default.sql</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/TM_Core.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/en_US/TM_EasyTabs.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Email_Templates.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_GoogleOptimizer.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/es_ES/Mage_Strikeiron.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Find_Feed.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_AdminNotification.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Adminhtml.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Api.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Authorizenet.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Backup.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Bundle.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Catalog.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_CatalogInventory.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_CatalogRule.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_CatalogSearch.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Centinel.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Checkout.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Cms.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Compiler.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Connect.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Contacts.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Core.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Cron.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Customer.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Dataflow.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Directory.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Downloadable.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Eav.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_GiftMessage.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_GoogleAnalytics.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_GoogleBase.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_GoogleCheckout.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_GoogleOptimizer.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_ImportExport.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Index.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Install.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Log.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Media.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Newsletter.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_OAuth.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Page.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_PageCache.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Paygate.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Payment.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Paypal.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_PaypalUk.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Persistent.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Poll.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_ProductAlert.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Rating.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Reports.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Review.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Rss.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Rule.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Sales.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_SalesRule.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Sendfriend.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Shipping.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Sitemap.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Tag.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Tax.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Usa.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Weee.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Widget.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_Wishlist.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Mage_XmlConnect.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/Phoenix_Moneybookers.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/info/ET_RussianLanguage_ChangeLog.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/info/ET_RussianLanguage_Description.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/info/Termins_niro.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/info/errors_found_1_5_0_1.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/info/errors_found_1_6_1_1.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/info/errors_found_eng_1_5_0_1.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/account_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/account_new_confirmation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/account_new_confirmed.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/account_password_reset_confirmation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/admin_password_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/admin_password_reset_confirmation.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/contact_form.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/currency_update_warning.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/log_clean_warning.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/moneybookers_activateemail.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/newsletter_subscr_confirm.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/newsletter_subscr_success.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/newsletter_unsub_success.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/password_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/payment_failed.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/product_alert_cron_error.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/product_price_alert.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/product_share.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/product_stock_alert.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/creditmemo_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/creditmemo_new_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/creditmemo_update.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/creditmemo_update_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/invoice_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/invoice_new_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/invoice_update.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/invoice_update_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/order_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/order_new_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/order_update.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/order_update_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/shipment_new.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/shipment_new_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/shipment_update.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sales/shipment_update_guest.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/sitemap_generate_warning.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/locale/ru_RU/template/email/wishlist_share.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/ecommerceteam/cloud-zoom.1.0.2.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/ecommerceteam/cloud-zoom.1.0.2.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/jquery/jquery-1.4.2.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/js/jquery/noconflict.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/magento_07_03_2016.sql</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/298x298/9df78eab33525d08d6e5fb8d27136e95/1/6/16_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/298x298/9df78eab33525d08d6e5fb8d27136e95/1/7/17_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/298x298/9df78eab33525d08d6e5fb8d27136e95/1/8/18_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/298x298/9df78eab33525d08d6e5fb8d27136e95/1/9/19_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/298x298/9df78eab33525d08d6e5fb8d27136e95/8/_/8_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/1/6/16_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/1/7/17_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/1/8/18_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/1/9/19_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/800x800/9df78eab33525d08d6e5fb8d27136e95/8/_/8_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/6/16_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/7/17_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/1/8/18_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/8/_/8_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/184x/9df78eab33525d08d6e5fb8d27136e95/2/_/2_1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/184x/9df78eab33525d08d6e5fb8d27136e95/4/_/4_7.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/184x/9df78eab33525d08d6e5fb8d27136e95/6/_/6_3.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/1/7/17_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/1/8/18_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/200x/9df78eab33525d08d6e5fb8d27136e95/6/_/6_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/56x56/9df78eab33525d08d6e5fb8d27136e95/1/6/16_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/56x56/9df78eab33525d08d6e5fb8d27136e95/1/7/17_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/56x56/9df78eab33525d08d6e5fb8d27136e95/1/8/18_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/56x56/9df78eab33525d08d6e5fb8d27136e95/1/9/19_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/56x56/9df78eab33525d08d6e5fb8d27136e95/8/_/8_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/84x81/9df78eab33525d08d6e5fb8d27136e95/1/4/14_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/84x81/9df78eab33525d08d6e5fb8d27136e95/1/6/16_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/84x81/9df78eab33525d08d6e5fb8d27136e95/3/_/3_2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/84x81/9df78eab33525d08d6e5fb8d27136e95/8/_/8.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/91x91/9df78eab33525d08d6e5fb8d27136e95/1/6/16_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/91x91/9df78eab33525d08d6e5fb8d27136e95/1/7/17_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/91x91/9df78eab33525d08d6e5fb8d27136e95/1/8/18_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/91x91/9df78eab33525d08d6e5fb8d27136e95/1/9/19_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/91x91/9df78eab33525d08d6e5fb8d27136e95/8/_/8_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/css/catalogsale.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/css/easytabs.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/css/ecommerceteam/cloud-zoom.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/css/prettyPhoto.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/css/print.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/css/styles-ie.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/css/styles.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/css/vpager.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/css/webandpeople/custommenu/custommenu.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/arrow-about.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/arrow.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/bkg_collapse.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/bkg_rating.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/bkg_rating.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/blank.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/block-layered-nav-marker.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/body-bg-2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/body-bg.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/border-nav.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/breadcrumbs.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/btn-empty.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/btn-newsletter.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/btn-print.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/btn-search.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/btn-sitemap-marker.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/btn-sitemap.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/btn-update.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/btn_edit.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/btn_remove.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/btn_trash.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/btn_window_close.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/cart-compare.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/cart-delete.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/cart-wislish.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/carusel-btn.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/catalog/product/placeholder/Thumbs.db</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/catalog/product/placeholder/image.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/catalog/product/placeholder/small_image.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/catalog/product/placeholder/thumbnail.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/compare-y.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/compare.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/contact_btn.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/cvv.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/delete-compare.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/drag.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/edit.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/facebook.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fam_book_open.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_close.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_loading.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_nav_left.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_nav_right.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_shadow_e.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_shadow_n.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_shadow_ne.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_shadow_nw.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_shadow_s.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_shadow_se.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_shadow_sw.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_shadow_w.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_title_left.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_title_main.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_title_over.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancy_title_right.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancybox-close.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancybox-x.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancybox-y.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancybox.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancybox_buttons.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancybox_loading.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancybox_pag.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fancybox_sprite.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/fantecy-close.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/footer-bg.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/grid-list.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_asc_arrow.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_availability_only_arrow.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_desc_arrow.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_msg-error.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_msg-note.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_msg-success.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_msg-success.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_notice.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_pager-next.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_pager-prev.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_print.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_rss-big.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/i_rss.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/line-menu.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/line-shadow.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/line-v.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/link-compare.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/link-compare.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/link-wishlist.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/link-wishlist.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/login-marker.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/logo.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/logo.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/logo_email.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/logo_print.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/magnifier_handle.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/marker-btn.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/marker-email.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/marker-link.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/marker-list-about-2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/marker-list-about.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/marker-list.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/marker-login.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/marker-reviews.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/marker-sitemap.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/marker-slider.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/Thumbs.db</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/about-1.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/about-11.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/about-22.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/about-33.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/banners-1.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/banners-2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/banners-3.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/banners-4.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/bg-adv-search.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/bg-login-2.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/bg-login.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/bg-return.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/blok1_2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/blok1_3.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/blok1_4.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/custom-img.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/custom-img1.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/custom-img2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/custom-img3.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/custom-img4.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/custom-img5.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/custom-img6.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/logo-pay.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/slider1.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/slider2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/media/slider3.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/multi-2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/multi-3.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/multi-33.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/multi-act-last.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/multi-act-main.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/multi-act.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/multi-last.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/nav-container-bg.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/opc-ajax-loader.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/pag-li.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/pager_arrow_left.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/pager_arrow_right.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/pic_zoom.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/dark_rounded/btnNext.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/dark_rounded/btnPrevious.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/dark_rounded/contentPattern.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/dark_rounded/default_thumbnail.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/dark_rounded/loader.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/dark_rounded/sprite.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/dark_square/btnNext.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/dark_square/btnPrevious.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/dark_square/contentPattern.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/dark_square/default_thumbnail.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/dark_square/loader.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/dark_square/sprite.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/default/default_thumb.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/default/loader.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/default/sprite.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/default/sprite_next.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/default/sprite_prev.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/default/sprite_x.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/default/sprite_y.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/facebook/btnNext.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/facebook/btnPrevious.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/facebook/contentPatternBottom.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/facebook/contentPatternLeft.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/facebook/contentPatternRight.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/facebook/contentPatternTop.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/facebook/default_thumbnail.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/facebook/loader.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/facebook/sprite.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/light_rounded/btnNext.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/light_rounded/btnPrevious.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/light_rounded/default_thumbnail.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/light_rounded/loader.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/light_rounded/sprite.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/light_square/btnNext.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/light_square/btnPrevious.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/light_square/default_thumbnail.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/light_square/loader.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/prettyPhoto/light_square/sprite.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/remove-popup-2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/remove-popup.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/row-last.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/scroll-down.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/scroll-top.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/select_left.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/select_left_content.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/select_right.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/select_right2.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/slide-next.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/slide-prev.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/slider-next.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/slider-prev.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/slider_bg.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/spacer-2.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/spacer.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/subcat-marker.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tag.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-box-cart.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-box-prod.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-btn-cart.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-btn-compare.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-chech.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-check-li-act.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-check-li.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-checout-ul.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-compare.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-compare.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-grid-bottom.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-li-cart.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-menu-act.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-pag.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-pager-sitemap.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-popup.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-prod-box-2.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-row-cart.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-table.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-toolbar.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-top-content-2.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-top-content.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/tail-top.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/twitter.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/up-arrow.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/upsell-btn.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/validation_advice_bg-2.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/validation_advice_bg.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/validation_advice_bg.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/wislish-page-compare.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/wislish.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/images/zoom.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/ajaxwishlist/ajaxwishlist.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/bundle.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/carousel.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/easyTooltip.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/fancybox/jquery.easing-1.3.pack.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/fancybox/jquery.fancybox-1.3.4.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/fancybox/jquery.fancybox-1.3.4.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/fancybox/jquery.mousewheel-3.0.4.pack.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/fancybox/jquery.mousewheel-3.0.6.pack.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/jqtransform.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/jquery-1.4.2.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/jquery-1.7.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/jquery.color.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/jquery.cycle.all.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/jquery.easing.1.3.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/jquery.jcarousel.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/jquery.jscrollpane.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/jquery.modal.1.4.1.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/jquery.mousewheel.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/jquery.prettyPhoto.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/msrp.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/mwheelIntent.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/scripts.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/tms-0.4.1.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/vpager.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/skin/frontend/default/theme376f/js/webandpeople/custommenu/custommenu.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/report/1339142960914</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/report/738787316297</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/resource_config.json</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/.cms.xml.swp</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/160x160/9df78eab33525d08d6e5fb8d27136e95/4/_/4_7.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/160x162/9df78eab33525d08d6e5fb8d27136e95/1/5/15_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/160x162/9df78eab33525d08d6e5fb8d27136e95/1/7/17_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/160x162/9df78eab33525d08d6e5fb8d27136e95/1/8/18_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/160x162/9df78eab33525d08d6e5fb8d27136e95/2/_/2_1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/160x162/9df78eab33525d08d6e5fb8d27136e95/2/_/2_2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/160x162/9df78eab33525d08d6e5fb8d27136e95/3/_/3_2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/160x162/9df78eab33525d08d6e5fb8d27136e95/4/_/4_7.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/160x162/9df78eab33525d08d6e5fb8d27136e95/5/_/5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/small_image/160x162/9df78eab33525d08d6e5fb8d27136e95/6/_/6_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/160x160/9df78eab33525d08d6e5fb8d27136e95/1/4/14_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/x70/9df78eab33525d08d6e5fb8d27136e95/1/6/16_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/x70/9df78eab33525d08d6e5fb8d27136e95/1/8/18_4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/media/catalog/product/cache/1/thumbnail/x70/9df78eab33525d08d6e5fb8d27136e95/1/9/19_5.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/var/report/1008107594702</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98b69754-56f6-4ef8-8962-eb7934133ecb" name="Default" comment="" />
+      <created>1456984886673</created>
+      <option name="number" value="Default" />
+      <updated>1456984886673</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Removed unnecessary footer links">
+      <created>1456986597107</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1456986597107</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="24" width="1319" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2584446" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removed unnecessary footer links" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unnecessary footer links" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/install-ebajes.phps">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="244" column="57" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/html/footer.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/cms.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="73" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample-database.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3667263">
+          <caret line="7487" column="5396" selection-start-line="7487" selection-start-column="5396" selection-end-line="7487" selection-end-column="5396" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install-ebajes.phps">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="244" column="57" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/layout/cms.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="73" selection-start-line="42" selection-start-column="54" selection-end-line="42" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_latest_dump_this.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magento_07_03_2016.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/design/frontend/ebajes/default/template/page/html/footer.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7403035">
+          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
